@@ -1,0 +1,82 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.app
+*.log
+*.pdb
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## JetBrains Rider
+.idea/
+
+## Rider project files
+*.sln.iml
+
+## OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Paketverwaltung
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+## Publish
+publish/
+*.publish.xml
+
+## Dotnet stuff
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Backup files
+*.bak
+*.old
+*.tmp
+
+## Tests
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## StyleCop
+StyleCopReport.xml
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## BuildScript artifacts
+*.generated.cs
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+*.cache
+
+## Local settings
+*.local.json
+
+## Icon / Assets (Optional if generated)
+Assets/Icons/*.ico
+Assets/Icons/*.png
+
+## Rider
+.idea/
+*.sln.iml
