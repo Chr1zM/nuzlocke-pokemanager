@@ -1,0 +1,18 @@
+﻿<Window x:Class="PokeManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PokeManager"
+        xmlns:pokemanagement="clr-namespace:PokeManager.PokeManagement"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="800"
+        Width="1000"
+        MinHeight="600"
+        MinWidth="750"
+        Icon="Assets/Icons/pokemanager.ico">
+
+    <pokemanagement:PokeManagementView />
+
+</Window>

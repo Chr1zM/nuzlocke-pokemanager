@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\pokemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\pokemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\pokemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\pokemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\pokemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\pokemanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\typelisttostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\typelisttostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\cangonextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\cangonextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\greaterthanoneconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\greaterthanoneconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\saving\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\saving\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\andboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\andboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|d:\\benutzer\\christian\\source\\repos\\pokemanager\\pokemanager\\pokemanagement\\converter\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188F3B29-6ACF-405D-9519-36D7CD2E4FA4}|PokeManager\\PokeManager.csproj|solutionrelative:pokemanager\\pokemanagement\\converter\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokeManager",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManager.csproj",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManager.csproj",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManager.csproj",
+              "RelativeToolTip": "PokeManager\\PokeManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T14:46:25.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Player.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Player.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Player.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Player.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAMwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:25:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokeManagementViewModel.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeManagementViewModel.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\PokeManagementViewModel.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeManagementViewModel.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\PokeManagementViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:56:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokeManagementView.xaml",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeManagementView.xaml",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\PokeManagementView.xaml",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeManagementView.xaml",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\PokeManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T19:47:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Saving\\SaveData.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Saving\\SaveData.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Saving\\SaveData.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Saving\\SaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:17:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AndBoolConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\AndBoolConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\AndBoolConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\AndBoolConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\AndBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:40:49.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InverseBoolConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\InverseBoolConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\InverseBoolConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\InverseBoolConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\InverseBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:40:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\LocationModel.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\LocationModel.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\LocationModel.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\LocationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:04:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\BoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\BoolToVisibilityConverter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:46:05.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeListToStringConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\TypeListToStringConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\TypeListToStringConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\TypeListToStringConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\TypeListToStringConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:44:53.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PokeManager\\App.xaml.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\App.xaml.cs",
+              "RelativeToolTip": "PokeManager\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:04:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CanGoNextConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\CanGoNextConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\CanGoNextConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\CanGoNextConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\CanGoNextConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:49:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GreaterThanOneConverter.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\GreaterThanOneConverter.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\Converter\\GreaterThanOneConverter.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\Converter\\GreaterThanOneConverter.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\Converter\\GreaterThanOneConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:48:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\RelayCommand.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\RelayCommand.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:00:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokeModel.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeModel.cs",
+              "RelativeDocumentMoniker": "PokeManager\\PokeManagement\\PokeModel.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\PokeManagement\\PokeModel.cs",
+              "RelativeToolTip": "PokeManager\\PokeManagement\\PokeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:57:13.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\App.xaml",
+              "RelativeDocumentMoniker": "PokeManager\\App.xaml",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\App.xaml",
+              "RelativeToolTip": "PokeManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T19:50:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PokeManager\\MainWindow.xaml",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\MainWindow.xaml",
+              "RelativeToolTip": "PokeManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T19:44:52.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PokeManager\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Benutzer\\Christian\\source\\repos\\PokeManager\\PokeManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PokeManager\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:44:50.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
